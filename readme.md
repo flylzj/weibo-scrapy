@@ -6,6 +6,7 @@
 * openpyxl
 * sqlalchemy
 * BeautifulSoup
+* pymysql
 
 ### 运行前的准备
 
